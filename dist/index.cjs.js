@@ -2069,7 +2069,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     TwitterIcon: Icon$Y,
     RedditIcon: Icon$Z,
     AuditIcon: Icon$_,
-    GooseIcon: Icon$$,
+    YogurtIcon: Icon$$,
     HandshakeIcon: Icon$10,
     LayerIcon: Icon$11,
     RoadmapIcon: Icon$12,
@@ -3070,7 +3070,7 @@ exports.CopyToClipboard = CopyToClipboard;
 exports.Dropdown = Dropdown;
 exports.ErrorIcon = Icon$1;
 exports.Flex = Flex;
-exports.GooseRoundIcon = Icon$w;
+exports.YogurtRoundIcon = Icon$w;
 exports.Heading = Heading;
 exports.HelpIcon = Icon$o;
 exports.IconButton = IconButton;
