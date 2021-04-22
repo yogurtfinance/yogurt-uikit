@@ -180,7 +180,7 @@ export const socials = [
   {
     label: "Reddit",
     icon: "RedditIcon",
-    href: "https://www.reddit.com/user/YogurtFinance",
+    href: "https://www.reddit.com/user/YogurtFinance/",
   },
 ];
 
