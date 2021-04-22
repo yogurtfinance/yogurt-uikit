@@ -166,10 +166,6 @@ export const socials = [
         label: "Announcements",
         href: "https://t.me/yogurtfinanceann",
       },
-      {
-        label: "Price Bot",
-        href: "https://t.me/BinanceRocketEGG",
-      },
     ],
   },
   {
